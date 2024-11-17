@@ -5,7 +5,7 @@ repo: AWS-Upptime # The name of this repository
 sites:
   - name: Homepage
     url: https://www.allweathersealinc.com
-  - name: ROOT
+  - name: Apex
     url: https://improvementwizard.com
   - name: WWW
     url: https://www.improvementwizard.com
