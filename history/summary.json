@@ -4,19 +4,19 @@
     "url": "https://www.allweathersealinc.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.allweathersealinc.com.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1865,
-    "timeDay": 2794,
-    "timeWeek": 1581,
-    "timeMonth": 1865,
-    "timeYear": 1865,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1838,
+    "timeDay": 1880,
+    "timeWeek": 1520,
+    "timeMonth": 1838,
+    "timeYear": 1838,
     "dailyMinutesDown": {
-      "2024-12-14": 0
+      "2024-12-14": 28
     }
   },
   {
