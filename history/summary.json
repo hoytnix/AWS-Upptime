@@ -4,7 +4,7 @@
     "url": "https://www.allweathersealinc.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.allweathersealinc.com.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1581,
     "timeMonth": 1865,
     "timeYear": 1865,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-14": 0
+    }
   },
   {
     "name": "Apex",
