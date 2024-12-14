@@ -1,7 +1,7 @@
 url: https://www.allweathersealinc.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-14T03:09:13.902Z
+status: up
+code: 200
+responseTime: 966
+lastUpdated: 2024-12-14T03:37:16.141Z
 startTime: 2024-11-17T13:22:41.954Z
 generator: Upptime <https://github.com/upptime/upptime>
