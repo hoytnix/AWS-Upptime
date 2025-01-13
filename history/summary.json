@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.allweathersealinc.com.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
-    "time": 1914,
-    "timeDay": 933,
-    "timeWeek": 1006,
-    "timeMonth": 1967,
-    "timeYear": 1914,
+    "uptimeYear": "99.97%",
+    "time": 1892,
+    "timeDay": 463,
+    "timeWeek": 995,
+    "timeMonth": 1943,
+    "timeYear": 1892,
     "dailyMinutesDown": {
       "2024-12-14": 28
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 153,
-    "timeWeek": 157,
-    "timeMonth": 169,
-    "timeYear": 238,
+    "time": 236,
+    "timeDay": 96,
+    "timeWeek": 155,
+    "timeMonth": 168,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 228,
-    "timeDay": 81,
-    "timeWeek": 124,
-    "timeMonth": 143,
-    "timeYear": 228,
+    "time": 226,
+    "timeDay": 91,
+    "timeWeek": 115,
+    "timeMonth": 141,
+    "timeYear": 226,
     "dailyMinutesDown": {
       "2024-11-25": 298
     }
