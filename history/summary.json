@@ -4,7 +4,7 @@
     "url": "https://www.allweathersealinc.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.allweathersealinc.com.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1865,
     "timeYear": 1879,
     "dailyMinutesDown": {
+      "2025-01-15": 0,
       "2024-12-14": 28
     }
   },
