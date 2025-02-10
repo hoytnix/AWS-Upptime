@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1710,
-    "timeDay": 2078,
-    "timeWeek": 1305,
-    "timeMonth": 1195,
-    "timeYear": 1710,
+    "time": 1702,
+    "timeDay": 890,
+    "timeWeek": 1312,
+    "timeMonth": 1199,
+    "timeYear": 1702,
     "dailyMinutesDown": {
       "2024-12-14": 28
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 199,
-    "timeWeek": 196,
-    "timeMonth": 170,
-    "timeYear": 218,
+    "time": 217,
+    "timeDay": 132,
+    "timeWeek": 183,
+    "timeMonth": 169,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.improvementwizard.com.ico",
     "slug": "www",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.75%",
-    "time": 205,
-    "timeDay": 184,
-    "timeWeek": 153,
+    "uptimeYear": "99.76%",
+    "time": 204,
+    "timeDay": 124,
+    "timeWeek": 145,
     "timeMonth": 149,
-    "timeYear": 205,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2024-11-25": 298
     }
